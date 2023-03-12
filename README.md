@@ -1,4 +1,4 @@
-# Debat
+# Debate
 
 ## About
 
